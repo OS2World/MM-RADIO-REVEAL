@@ -1,0 +1,27 @@
+        Archive Filename: Reveal.ZIP
+       Short Description: C Source routines needed to control a REVEAL RA300 Radio card
+        Long Description: Everything that is needed to turn the card on and off and
+                                to change stations.
+
+      Proposed directory
+           for placement: /pub/os2/dev/c
+
+               Your name: Nathan Woodruff
+           Email address: NWoodru@attglobal.net
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL:
+
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: OS/2 Warp 4.0/eCS 1.0
+ Additional requirements: A desire to create Great software for OS/2
+
+                Replaces:
+
+
+
+
